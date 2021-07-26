@@ -1,7 +1,7 @@
 # Selenium-Tool-poject
-It pull data from website and prepare data.
+It pulls data from website and prepare data.
 
-Used Selenium,BeautifulSoup in Python
+Used Selenium,BeautifulSoup and Python
 
 Selenium automates browsers. That's it!
 What you do with that power is entirely up to you.
